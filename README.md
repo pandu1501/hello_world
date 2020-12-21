@@ -1,2 +1,4 @@
 # hello_world
-just a repository
+
+Hi everyone, 
+I am a beginner programmer and these are my works.
